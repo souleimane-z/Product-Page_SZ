@@ -21,7 +21,7 @@ Challenge sur Frontend Mentor, le but était de reproduire une image en HTML & C
 ### Links
 
 - Live Site URL: [Demo](https://souleimane-z.github.io/Product-Page_SZ/)
-- Solution URL: [Solution]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-zlbJC6iSG6)
 
 ## My process
 
