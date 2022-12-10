@@ -11,23 +11,21 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
-Challenge sur Frontend Mentor, le but était de reproduire une image en HTML & CSS.
+Challenge sur Frontend Mentor, le but était de reproduire une image en HTML & CSS. Ensuite intégrer la partie responsive.
 
 ### Screenshot
 
-![Screenshot](./images/Screenshot.png)
+![Screenshot](./images/Screenshot-laptop-iphone.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-Jzf2g4Wlc5)
-- Live Site URL: [Demo](https://souleimane-z.github.io/QR-Code_SZ/)
+- Live Site URL: [Demo](https://souleimane-z.github.io/Product-Page_SZ/)
+- Solution URL: [Solution]()
 
 ## My process
 
-This time , a responsive aspect of the page have been integrated. 
+This time, a responsive aspect of the page have been integrated. 
 
 ### Built with
 
